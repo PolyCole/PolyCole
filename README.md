@@ -5,7 +5,7 @@ My name is Cole Polyak and I'm a rising Senior at the University of Denver study
 - LinkedIn: [linkedin.com/in/colepolyak][1]
 - Email: [colepolyak@gmail.com][2]
 
-## 🔭 What I'm currently working on
+## 🔭 What I'm Up To
 Currently, I'm working on my honors project to achieve distinction in the Computer Science major. I am analyzing three of the large web frameworks in use today, including Laravel, Django, and ASP.NET. I'm hoping to gain a better understanding of how these three frameworks can be properly leveraged depending on the problem to create elegant and well-engineered solutions. 
 
 Additionally, in my freetime, I'm involved with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting. If you'd like to learn more, check them out [here][3]!
