@@ -1,4 +1,3 @@
-### Hi there, I'm Cole Polyak. This ReadMe is currently a WIP 👋
 ### Hello hello 👋🏻
 My name is Cole Polyak and I'm a rising Senior at the University of Denver studying Computer Science with an anticipated graduation date of November 2020. 
 
