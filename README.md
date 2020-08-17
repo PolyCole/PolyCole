@@ -1,6 +1,17 @@
 ### Hi there, I'm Cole Polyak. This ReadMe is currently a WIP 👋
+### Hello hello 👋🏻
+My name is Cole Polyak and I'm a rising Senior at the University of Denver studying Computer Science with an anticipated graduation date of November 2020. 
 
-## &#x1f4c8; My GitHub Stats
+## 📬 Contact Me
+- LinkedIn: [linkedin.com/in/colepolyak][1]
+- Email: [colepolyak@gmail.com][2]
+
+## 🔭 What I'm currently working on
+Currently, I'm working on my honors project to achieve distinction in the Computer Science major. I am analyzing three of the large web frameworks in use today, including Laravel, Django, and ASP.NET. I'm hoping to gain a better understanding of how these three frameworks can be properly leveraged depending on the problem to create elegant and well-engineered solutions. 
+
+Additionally, in my freetime, I'm involved with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting. If you'd like to learn more, check them out [here][3]!
+
+## 📈 My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polycole&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -24,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://www.linkedin.com/in/colepolyak/
+[2]: mailto:colepolyak@gmail.com
+[3]: https://pocketchange.social/
