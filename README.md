@@ -6,9 +6,9 @@ My name is Cole Polyak and I'm a rising Senior at the University of Denver study
 - Email: [colepolyak@gmail.com][2]
 
 ## 🔭 What I'm Up To
-Currently, I'm working on my honors project to achieve distinction in the Computer Science major. I am analyzing three of the large web frameworks in use today, including Laravel, Django, and ASP.NET. I'm hoping to gain a better understanding of how these three frameworks can be properly leveraged depending on the problem to create elegant and well-engineered solutions. 
+Currently, I'm working on my honors project to achieve distinction in the Computer Science major. I am analyzing 10 three of the largest web frameworks in use today, including back-end frameworks like Django, ASP.NET, Laravel, and Spring, as well as front-end frameworks such as Vue.js, React.js, and Angular. I'm hoping to gain a better understanding of how these frameworks can be properly leveraged depending on the problem to create elegant and well-engineered web solutions. 
 
-Additionally, in my freetime, I'm involved with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting. If you'd like to learn more, check them out [here][3]!
+Additionally, in my freetime, I'm involved with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting, utilizing the power of Natural Language Processing and micro-donations. If you'd like to learn more, check them out [here][3]!
 
 ## 📈 My GitHub Stats
 
