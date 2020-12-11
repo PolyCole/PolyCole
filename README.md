@@ -1,14 +1,14 @@
 ### Hello hello 👋🏻
-My name is Cole Polyak and I'm a rising Senior at the University of Denver studying Computer Science with an anticipated graduation date of November 2020. 
+My name is Cole Polyak and I'm a recent graduate from the University of Denver. I graduated in December of 2020 from DU with a BS in Computer Science Magna Cum Laude. Outside of software engineering, I'm an avid outdoorsman, skier, and reader. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
 
 ## 📬 Contact Me
 - LinkedIn: [linkedin.com/in/colepolyak][1]
 - Email: [colepolyak@gmail.com][2]
 
 ## 🔭 What I'm Up To
-Currently, I'm working on my honors project to achieve distinction in the Computer Science major. I am analyzing 10 of the largest web frameworks in use today, including server-side frameworks like Django, ASP.NET, Laravel, and Spring, as well as client-side frameworks such as Vue.js, React, and Angular. I'm hoping to gain a better understanding of how these frameworks can be properly leveraged depending on the problem to create elegant and well-engineered web solutions. 
+I just recently finished up my distinction project to achieve honors in my BS. I analyzed 10 of the largest web frameworks in industry today, to better understand how each can be properly leveraged to create elegant and well-engineered web solutions. If you'd like to read the write-up of my project, you can do so [here](https://bit.ly/340Ugh9).
 
-Additionally, in my freetime, I'm involved with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting, utilizing the power of Natural Language Processing and micro-donations. If you'd like to learn more, check them out [here][3]!
+In addition to a few passion projects, in my freetime I'm currently involved with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting, utilizing the power of Natural Language Processing and micro-donations. If you'd like to learn more, check them out [here][3]!
 
 ## 📈 My GitHub Stats
 
