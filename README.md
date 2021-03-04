@@ -1,5 +1,5 @@
 ### Hello hello 👋🏻
-My name is Cole Polyak and I'm a recent graduate from the University of Denver. I graduated in December of 2020 from DU with a BS in Computer Science Magna Cum Laude. Outside of software engineering, I'm an avid outdoorsman, skier, and reader. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
+My name is Cole Polyak and I'm a recent graduate from the University of Denver.I graduated in December of 2020 from DU with a BS in Computer Science Magna Cum Laude. I'm currently working as an Associate Software Engineer for Ibotta in Denver, CO. Outside of software engineering, I'm an avid outdoorsman, skier, and reader. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
 
 ## 📬 Contact Me
 - LinkedIn: [linkedin.com/in/colepolyak][1]
