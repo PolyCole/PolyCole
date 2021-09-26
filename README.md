@@ -53,7 +53,7 @@ I'm a University of Denver CS Grad currently working as a Software Engineer in D
 <br>
 
 ## 🔭 What I'm Up To
-In Fall of 2020, I finished up my distinction project to achieve honors in my BS. I analyzed 10 of the largest web frameworks in industry today, to better understand how each can be properly leveraged to create elegant and well-engineered web solutions. If you'd like to read the write-up of my project, you can do so [here](https://bit.ly/340Ugh9).
+In the Fall of 2020, I finished up my distinction project to achieve honors in my BS. I analyzed 10 of the largest web frameworks in industry today, to better understand how each can be properly leveraged to create elegant and well-engineered web solutions. If you'd like to read the write-up of my project, you can do so [here](https://bit.ly/340Ugh9).
 
 Until I started my job, I was involved in my freetime with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting, utilizing the power of Natural Language Processing and micro-donations. If you'd like to learn more, check them out [here](https://pocketchange.social)!
 
@@ -129,8 +129,8 @@ v6rcodbYrAHmafcaicFRimEFuV6IvPmxheoUSw==
 =LTO+
 -----END PGP PUBLIC KEY BLOCK-----
   ```
+  
 </details>
-
 
 <details>
   <summary> 📈 My GitHub Stats </summary>
@@ -144,6 +144,3 @@ v6rcodbYrAHmafcaicFRimEFuV6IvPmxheoUSw==
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=polycole&label=Profile%20views&color=000000&style=flat" alt="polycole" /> </p>
 </details>
-
-
-
