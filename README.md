@@ -68,6 +68,9 @@ Until I started my job, I was involved in my freetime with a tech startup called
   <a href="mailto:colepolyak@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-%FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=EA4335&color=FFFFFF" />
   </a>
+  <a href="https://twitter.com/Poly_Cole" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1DA1F2" />
+  </a>
 </p>
 
 <br>
