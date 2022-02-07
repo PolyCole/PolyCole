@@ -14,7 +14,7 @@ I'm a University of Denver CS Grad currently working as a Software Engineer in D
 <br>
 <!-- Frameworks -->
 <span>
-  
+
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/>
@@ -33,14 +33,14 @@ I'm a University of Denver CS Grad currently working as a Software Engineer in D
 <span>
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>
 </span>
 <br>
 <span>
   <img src="https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
 </span>
 <br>
 <!-- IDE's and Tools -->
@@ -61,10 +61,10 @@ Until I started my job, I was involved in my freetime with a tech startup called
 <p align="left">
   <a href="https://github.com/PolyCole" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/colepolyak/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+  </a>
   <a href="mailto:colepolyak@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-%FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=EA4335&color=FFFFFF" />
   </a>
@@ -80,7 +80,7 @@ Until I started my job, I was involved in my freetime with a tech startup called
 
 <details>
   <summary> 🔐 PGP Public Key </summary>
-  
+
   ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -135,7 +135,7 @@ v6rcodbYrAHmafcaicFRimEFuV6IvPmxheoUSw==
 =LTO+
 -----END PGP PUBLIC KEY BLOCK-----
   ```
-  
+
 </details>
 
 <details>
@@ -147,6 +147,6 @@ v6rcodbYrAHmafcaicFRimEFuV6IvPmxheoUSw==
   <a href="https://github.com/polycole/polycole">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polycole&hide=html&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" />
   </a>
-  
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=polycole&label=Profile%20views&color=000000&style=flat" alt="polycole" /> </p>
 </details>
