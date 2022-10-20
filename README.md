@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1620411481/36619/duck_dance.gif?1620411481" width=45 height=45/> Hello there, I'm Cole.
 
-I'm a University of Denver CS Grad currently working as a Software Engineer in Denver Colorado, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width=18 height=18/>. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
+I'm a University of Denver CS Grad currently working as a Software Engineer in Denver Colorado. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" height=25 width=25/> Some tech I've worked with and think is neat-o
 <!-- Programming Languages -->
