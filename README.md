@@ -3,59 +3,58 @@
 I'm a University of Denver CS Grad currently working as a Software Engineer in Denver Colorado. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" height=25 width=25/> Some tech I've worked with and think is neat-o
-<!-- Programming Languages -->
+<!-- Programming Languages, most to least recent -->
 <span>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </span>
 <br>
 <!-- Frameworks -->
 <span>
-
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
 </span>
 <br>
 <!-- CI/CD & Monitoring -->
 <span>
   <img src="https://img.shields.io/badge/-DataDog-632CA6?style=flat&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ArgoCD-110D4F?style=flat&logo=argo&logoColor=orange"/>
   <img src="https://img.shields.io/badge/-TravisCI-3EAAAF?style=flat&logo=travisci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white"/>
 </span>
 <!-- Infrastructure & Environment -->
 <br>
 <span>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>
 </span>
 <br>
 <span>
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
 </span>
 <br>
 <!-- IDE's and Tools -->
 <span>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </span>
 <br>
 
 ## 🔭 What I'm Up To
-In the Fall of 2020, I finished up my distinction project to achieve honors in my BS. I analyzed 10 of the largest web frameworks in industry today, to better understand how each can be properly leveraged to create elegant and well-engineered web solutions. If you'd like to read the write-up of my project, you can do so [here](https://bit.ly/340Ugh9).
+In May of 2023, I received my [AWS Certified Developer Associate Certification](https://www.credly.com/badges/dd4c2a79-ef39-4b2f-8ab3-85f43e051914), after studying for multiple weeks. This certification introduced me to a litany of new cool services in AWS I hadn't encountered before. I'm excited to continue to jump down the AWS Rabbit hole :) 
 
-Until I started my job, I was involved in my freetime with a tech startup called PocketChange, which aims at making charitable giving more accessible in a day-to-day setting, utilizing the power of Natural Language Processing and micro-donations. If you'd like to learn more, check them out [here](https://pocketchange.social)!
+In the Fall of 2020, I finished up my distinction project to achieve honors in my BS. I analyzed 10 of the largest web frameworks in industry today, to better understand how each can be properly leveraged to create elegant and well-engineered web solutions. If you'd like to read the write-up of my project, you can do so [here](https://bit.ly/340Ugh9).
 
 ## 📬 How to get in touch
 <p align="left">
