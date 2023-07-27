@@ -138,14 +138,15 @@ v6rcodbYrAHmafcaicFRimEFuV6IvPmxheoUSw==
 </details>
 
 <details>
-  <summary> 📈 My GitHub Stats </summary>
-  <a href="https://github.com/polycole/polycole">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=polycole&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" alt="Cole's Github Stats" />
-  </a>
-
-  <a href="https://github.com/polycole/polycole">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polycole&hide=html&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" />
-  </a>
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=polycole&label=Profile%20views&color=000000&style=flat" alt="polycole" /> </p>
+    <summary> 📈 My GitHub Stats </summary>
+      <br/>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=polycole&label=Profile%20views&color=000000&style=flat" alt="polycole" /> </p>
+      <p>More coming soon...</p>
+    <!-- <a href="https://github.com/polycole/polycole">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=polycole&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" alt="Cole's Github Stats" />
+    </a>
+  
+    <a href="https://github.com/polycole/polycole">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polycole&hide=html&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" />
+    </a> -->
 </details>
