@@ -139,14 +139,15 @@ v6rcodbYrAHmafcaicFRimEFuV6IvPmxheoUSw==
 
 <details>
     <summary> 📈 My GitHub Stats </summary>
-      <br/>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=polycole&label=Profile%20views&color=000000&style=flat" alt="polycole" /> </p>
-      <p>More coming soon...</p>
-    <!-- <a href="https://github.com/polycole/polycole">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=polycole&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" alt="Cole's Github Stats" />
-    </a>
-  
-    <a href="https://github.com/polycole/polycole">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polycole&hide=html&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1d1f21" />
-    </a> -->
+    <br/>
+    <!--Github Account Stats-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PolyCole&rank_icon=github&theme=github_dark" alt="Cole's Github Stats" />
+    <br/>
+    <br/>
+    <!--Github Streak Stats-->
+    <img src="https://streak-stats.demolab.com?user=PolyCole&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat"/>
+    <br/>
+    <br/>
+    <!--Profile Views-->
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=polycole&label=Profile%20views&color=000000&style=flat" alt="polycole" /> </p>    
 </details>
