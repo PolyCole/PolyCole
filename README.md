@@ -1,4 +1,7 @@
-<center><img src="https://emojis.slackmojis.com/emojis/images/1620411481/36619/duck_dance.gif?1620411481" width=45 height=45 style="float:left"/></center>
+
+<p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1620411481/36619/duck_dance.gif?1620411481" width=45 height=45 align="right"/>
+</p>
 
 # Hello there, I'm Cole.
 
