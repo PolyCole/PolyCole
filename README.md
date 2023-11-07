@@ -75,9 +75,9 @@ In the Fall of 2020, I finished up my distinction project to achieve honors in m
   <a href="https://twitter.com/Poly_Cole" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1DA1F2" />
   </a>
-  <a href="https://calendly.com/colepolyak" target="_blank">
+<!--   <a href="https://calendly.com/colepolyak" target="_blank">
     <img alt="Calendly" src="https://img.shields.io/badge/Schedule%20Time-%1DA1F2.svg?&style=for-the-badge&logo=googlecalendar&logoColor=4285F4&color=FFFFFF"/>
-  </a>
+  </a> -->
 </p>
 
 <br>
