@@ -1,4 +1,6 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1620411481/36619/duck_dance.gif?1620411481" width=45 height=45/> Hello there, I'm Cole.
+<center><img src="https://emojis.slackmojis.com/emojis/images/1620411481/36619/duck_dance.gif?1620411481" width=45 height=45 style="float:left"/></center>
+
+# Hello there, I'm Cole.
 
 I'm a University of Denver CS Grad currently working as a Software Engineer in Denver Colorado. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
 
