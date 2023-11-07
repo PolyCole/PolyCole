@@ -7,7 +7,7 @@
 
 I'm a University of Denver CS Grad currently working as a Software Engineer in Denver Colorado. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" height=25 width=25/> Some tech I've worked with and think is neat-o
+## 💻 Some tech I've worked with and think is neat-o
 <!-- Programming Languages, most to least recent -->
 <span>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
