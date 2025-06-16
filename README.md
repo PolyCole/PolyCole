@@ -5,80 +5,34 @@
 
 # Hello there, I'm Cole.
 
-I'm a University of Denver CS Grad currently working as a Software Engineer in Denver Colorado. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. Additionally, I'm always looking for someone to [play chess](https://lichess.org/@/PolyCole) with 🙃
+I'm a Backend Software Engineer in Denver Colorado. When I can find time away from my computer, my hobbies align about as close to the Colorado stereotype as you can get, and I'm a huge fan of climbing, skiing, hiking, and camping. I also love playing [very mediocre chess](https://www.chess.com/member/boogie_p) 🙃
 
-## 💻 Some tech I've worked with and think is neat-o
-<!-- Programming Languages, most to least recent -->
+## 💻 Tech Stack
+### Languages
 <span>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </span>
 <br>
-<!-- Frameworks -->
+
+### Frameworks
 <span>
+  <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
 </span>
 <br>
-<!-- CI/CD & Monitoring -->
-<span>
-  <img src="https://img.shields.io/badge/-DataDog-632CA6?style=flat&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ArgoCD-110D4F?style=flat&logo=argo&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/-TravisCI-3EAAAF?style=flat&logo=travisci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white"/>
-</span>
-<!-- Infrastructure & Environment -->
-<br>
+
+### Infrastructure
 <span>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>
 </span>
-<br>
-<span>
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</span>
-<br>
-<!-- IDE's and Tools -->
-<span>
-    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</span>
-<br>
 
-## 🔭 What I'm Up To
-In May of 2023, I received my [AWS Certified Developer Associate Certification](https://www.credly.com/badges/dd4c2a79-ef39-4b2f-8ab3-85f43e051914), after studying for multiple weeks. This certification introduced me to a litany of new cool services in AWS I hadn't encountered before. I'm excited to continue to jump down the AWS Rabbit hole :) 
-
-In the Fall of 2020, I finished up my distinction project to achieve honors in my BS. I analyzed 10 of the largest web frameworks in industry today, to better understand how each can be properly leveraged to create elegant and well-engineered web solutions. If you'd like to read the write-up of my project, you can do so [here](https://bit.ly/340Ugh9).
-
-## 📬 How to get in touch
-<p align="left">
-  <a href="https://github.com/PolyCole" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/colepolyak/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:colepolyak@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=EA4335&color=FFFFFF" />
-  </a>
-  <a href="https://twitter.com/Poly_Cole" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1DA1F2" />
-  </a>
-<!--   <a href="https://calendly.com/colepolyak" target="_blank">
-    <img alt="Calendly" src="https://img.shields.io/badge/Schedule%20Time-%1DA1F2.svg?&style=for-the-badge&logo=googlecalendar&logoColor=4285F4&color=FFFFFF"/>
-  </a> -->
-</p>
+## 🔭 What I'm Up To & 📬 How to get in touch
+The answer to both questions is covered [on my personal site](https://polycole.github.io/). It's very much a work in progress, and will undoubtedly be receiving some tweaks in the near future.
 
 <br>
 
